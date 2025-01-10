@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -79,4 +80,9 @@ public class LOGIN {
             }
         });
     }
+=======
+package PACKAGE_NAME;
+
+public class LOGIN {
+>>>>>>> d76c055f736d174f5411535abaf7fed09666e7d8
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -87,4 +88,9 @@ public class CALIFICACIONES {
             }
         });
     }
+=======
+package PACKAGE_NAME;
+
+public class CALIFICACIONES {
+>>>>>>> d76c055f736d174f5411535abaf7fed09666e7d8
 }
